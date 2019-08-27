@@ -1,6 +1,5 @@
 # Loan Delinquency Prediction
 
-<!-- toc -->
 [[_TOC_]]
 
 ## Problem Description

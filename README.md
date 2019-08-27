@@ -1,7 +1,5 @@
 # Loan Delinquency Prediction
 
-[[_TOC_]]
-
 ## Problem Description
 Loan default prediction is one of the most critical and crucial problem faced by financial institutions and organizations as it has a noteworthy effect on the profitability of these institutions. In recent years, there is a tremendous increase in the volume of non – performing loans which results in a jeopardizing effect on the growth of these institutions.
 

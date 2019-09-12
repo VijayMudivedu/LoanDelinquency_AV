@@ -36,3 +36,9 @@ Our objective is to identify the delinquency status of loans for the next month 
 |insurance_type |	0 - Premium paid by borrower, 1 - Premium paid by Lender |
 |m1 to m12 |	Month-wise loan performance (deliquency in months) |
 |m13 |	target, loan deliquency status (0 = non deliquent, 1 = deliquent)  |
+
+
+## Solution:
+
+For the solution refer to the iPython 
+[Notebook](https://notebooks.azure.com/vijaymudivedu/projects/loanDelinquency/html/IndiaML_hackathon_V2.ipynb) .
